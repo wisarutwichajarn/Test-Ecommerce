@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 # TestStore2
 # TESTSHOP
 # Test-Ecommerce
+# Test-Ecommerce
